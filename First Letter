@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Letters from Dan </title>
+</head>
+<body>
+  <h1>Welcome to My Letters</h1>
+  <p>Here I share updates and messages for family and friends.</p>
+  <ul>
+    <li><a href="letter1.html">Letter 1</a></li>
+  </ul>
+</body>
+</html>
